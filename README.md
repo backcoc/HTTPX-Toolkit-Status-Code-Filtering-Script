@@ -19,8 +19,8 @@ This Bash script processes all `.txt` files in the same directory, runs `httpx-t
 1. Place all `.txt` files containing URLs in the same directory as the script.
 2. Run the script:
    ```bash
-   chmod +x script.sh
-   ./script.sh
+   chmod +x Status-Filter.sh
+   ./Status-Filter.sh
    ```
 3. Processed results will be saved in:
    - `live-200-site/` → Contains URLs responding with HTTP 200.
